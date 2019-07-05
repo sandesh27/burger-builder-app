@@ -1,7 +1,7 @@
 import React from "react";
 
 function App() {
-  return <div>HHHHHH</div>;
+  return <div>Burger Builder App</div>;
 }
 
 export default App;
