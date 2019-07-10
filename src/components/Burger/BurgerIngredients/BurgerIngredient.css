@@ -80,10 +80,10 @@
   box-shadow: inset 1px 3px #c9c9c9;
 }
 
-.Meat {
+.Patty {
   width: 80%;
   height: 8%;
-  background: linear-gradient(#7f3608, #702e05);
+  background: linear-gradient(#3f7943, #235326);
   margin: 2% auto;
   border-radius: 15px;
 }
@@ -107,6 +107,6 @@
 .Bacon {
   width: 80%;
   height: 3%;
-  background: linear-gradient(#bf3813, #c45e38);
+  background: linear-gradient(#e65d38, #fc7b57);
   margin: 2% auto;
 }
