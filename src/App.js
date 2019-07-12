@@ -1,8 +1,10 @@
 import React from "react";
+import "./App.css";
+
 import Layout from "./components/Layout/Layout";
 import BurgerBuilder from "./containers/BurgerBuilder/BurgerBuilder";
 
-function App() {
+const App = () => {
   return (
     <div>
       <Layout>
@@ -10,6 +12,6 @@ function App() {
       </Layout>
     </div>
   );
-}
+};
 
 export default App;
